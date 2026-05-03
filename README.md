@@ -2,8 +2,14 @@
 ## 👩‍💻 About Me<br><br>Hey, I'm Titli 👋  <br>Aspiring Software Engineer focused on AI, Web Development, and Problem Solving.<br><br>- 💡 Working on: DSA, Full-Stack Development, AI/ML  <br>- 🧠 Learning: Python, Java  <br>- 🚀 Building: Real-world AI & Web projects  <br>- 🤝 Open to: Internships & Collaboration  <br><br>## 🛠️ Tech Stack<br>- Languages: Python, Java  <br>- Web: HTML, CSS  <br>- Exploring: Backend & AI  <br><br>## 🎯 Vision<br>Build scalable, impactful tech solutions and grow as a developer 🚀
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titlidutta1111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Titli dutta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DuttaTitli36971) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Titli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titliatwork157@gmail.com) 
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/titlidutta1111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/titli-dutta)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DuttaTitli36971)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/titu_78314)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T1dutta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titliatwork157@gmail.com)
 
 # 💻 Tech Stack:
 ### Languages
@@ -52,6 +58,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=T1dutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=T1dutta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T1dutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🎯 Currently Learning
+
+- 🔗 **LangChain / LlamaIndex** — advancing beyond manual RAG
+- 🐘 **PostgreSQL** — upgrading from SQLite to production databases  
+- ⚡ **Redis** — caching for AI response latency optimization
+- 🚀 **CI/CD with GitHub Actions** — automating test + deploy pipelines
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=T1dutta&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
