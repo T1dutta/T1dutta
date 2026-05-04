@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 <br><br>Hey, I'm Titli 👋  <br>Aspiring Software Engineer focused on AI, Web Development, and Problem Solving.<br><br>- 💡 Working on: DSA, Full-Stack Development, AI/ML  <br>- 🧠 Learning: Python, Java  <br>- 🚀 Building: Real-world AI & Web projects  <br>- 🤝 Open to: Internships & Collaboration  <br><br>## 🛠️ Tech Stack<br>- Languages: Python, Java  <br>- Web: HTML, CSS  <br>- Exploring: Backend & AI  <br><br>## 🎯 Vision<br>Build scalable, impactful tech solutions and grow as a developer 🚀
+## 👩‍💻 Hey, I'm Titli 👋  <br>Aspiring Software Engineer focused on AI, Web Development, and Problem Solving.<br><br>- 💡 Working on: DSA, Full-Stack Development, AI/ML  <br>- 🚀 Building: Real-world AI & Web projects  <br>- 🤝 Open to: Internships & Collaboration  <br><br>## 🛠️ Tech Stack<br>- Languages: Python, Java  <br>- Web: HTML, CSS  <br>- Exploring: Backend & AI  <br><br>## 🎯 Vision<br>Build scalable, impactful tech solutions and grow as a developer 🚀
 
 
 ## 🌐 Socials
@@ -63,14 +63,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=T1dutta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T1dutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎯 Currently Learning
-
-- 🔗 **LangChain / LlamaIndex** — advancing beyond manual RAG
-- 🐘 **PostgreSQL** — upgrading from SQLite to production databases  
-- ⚡ **Redis** — caching for AI response latency optimization
-- 🚀 **CI/CD with GitHub Actions** — automating test + deploy pipelines
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=T1dutta&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
