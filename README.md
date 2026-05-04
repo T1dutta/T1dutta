@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>Hey, I'm Titli 👋  <br>Aspiring Software Engineer focused on AI, Web Development, and Problem Solving.<br><br>- 💡 Working on: DSA, Full-Stack Development, AI/ML  <br>- 🧠 Learning: Python, Java  <br>- 🚀 Building: Real-world AI & Web projects  <br>- 🤝 Open to: Internships & Collaboration  <br><br>## 🛠️ Tech Stack<br>- Languages: Python, Java  <br>- Web: HTML, CSS  <br>- Exploring: Backend & AI  <br><br>## 🎯 Vision<br>Build scalable, impactful tech solutions and grow as a developer 🚀
+## 👩‍💻 <br><br>Hey, I'm Titli 👋  <br>Aspiring Software Engineer focused on AI, Web Development, and Problem Solving.<br><br>- 💡 Working on: DSA, Full-Stack Development, AI/ML  <br>- 🧠 Learning: Python, Java  <br>- 🚀 Building: Real-world AI & Web projects  <br>- 🤝 Open to: Internships & Collaboration  <br><br>## 🛠️ Tech Stack<br>- Languages: Python, Java  <br>- Web: HTML, CSS  <br>- Exploring: Backend & AI  <br><br>## 🎯 Vision<br>Build scalable, impactful tech solutions and grow as a developer 🚀
 
 
 ## 🌐 Socials
